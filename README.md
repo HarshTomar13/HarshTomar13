@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Harsh Tomar
 - 👀 I’m interested in Machine Learning, AI, and Data Science.
 - 🌱 I’m currently learning Deep Learning, Optimization, and Financial Engineering.
+- ❤️ I'm working on implementing and improving Graph Neural Networks for Link Prediction tasks in Dynamic Settings! 
 - 💞️ I’m looking to collaborate on ML and Finance Projects
 - 📫 How to reach me -> harshtomar001.ht@gmail.com
 - 😄 Pronouns: He / Him
